@@ -1,2 +1,3 @@
 # utn-labcomII-practices
-Repositorio para lab 2
+Repositorio para LAB 2
+Lucas Lodigiani- Comision 3
